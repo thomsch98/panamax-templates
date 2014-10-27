@@ -1,0 +1,10 @@
+---
+name: docker-wso2is
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: isim_wso2apim_latest
+  source: isim/wso2apim:latest
+  type: Default
